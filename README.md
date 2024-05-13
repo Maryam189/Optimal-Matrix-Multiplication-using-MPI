@@ -53,7 +53,7 @@ mpiexec -n <number_of_processes> ./<outputname>
 # Conclusion
 The diverse results in execution times across different algorithms and configurations demonstrate the complexities and trade-offs in parallel computing. The blocking and non-blocking approaches show varying efficiency depending on the number of processes and the type of machine setup, whereas the Strassen algorithm offers stability but at higher execution times.
 
-This README is ready to be used in your repository. Make sure to replace `<filename>.c`, `<outputname>`, and `<number_of_processes>` with the actual filenames and desired process numbers for your specific project. If there's anything else you'd like to add or modify, let me know. Feel free to reach me out at Maryamkhalid590@gmail.com
+Make sure to replace `<filename>.c`, `<outputname>`, and `<number_of_processes>` with the actual filenames and desired process numbers for your specific project. If there's anything else you'd like to add or modify, let me know. Feel free to reach me out at Maryamkhalid590@gmail.com
 
 ## Contributing
 **Interested in contributing?** We welcome enhancements, bug fixes, and optimizations. Please send me a pull request or open an issue to discuss your ideas.
